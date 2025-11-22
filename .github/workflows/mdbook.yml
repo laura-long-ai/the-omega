@@ -25,6 +25,11 @@ jobs:
       - name: Install Rust
         uses: dtolnay/rust-toolchain@stable
         
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
       - name: Cache Rust dependencies
         uses: actions/cache@v4
         with:
@@ -52,6 +57,10 @@ jobs:
           if ! command -v mdbook-mermaid &> /dev/null; then
             cargo install mdbook-mermaid
           fi
+          
+      - name: Install mermaid-cli
+        run: |
+          npm install -g @mermaid-js/mermaid-cli
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
