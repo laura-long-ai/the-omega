@@ -46,7 +46,14 @@ jobs:
       - name: Install mermaid-cli
         run: |
           npm install -g @mermaid-js/mermaid-cli
-          mmdc --version
+          # Verify installation
+          if command -v mmdc &> /dev/null; then
+            echo "mmdc found at: $(which mmdc)"
+            mmdc --version || echo "mmdc version check failed, but binary exists"
+          else
+            echo "ERROR: mmdc not found in PATH"
+            exit 1
+          fi
       
       - name: Install mdBook
         run: |

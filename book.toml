@@ -6,6 +6,7 @@ title = "The Omega Framework"
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
+renderer = ["html"]
 
 [preprocessor.katex]
 after = ["mermaid"]
