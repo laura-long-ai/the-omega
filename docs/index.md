@@ -7,6 +7,10 @@
 
 ## 🌌 Vision
 
+<p align="center">
+  <img src="../../assets/img/architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
 **The Omega Framework** is an ambitious project to reconstruct theoretical physics, aiming to establish a **completely finite, discrete, and self-consistent** axiomatic system.
 
 Unlike traditional physics, which relies on the presuppositions of continuous manifolds and differential equations, this framework starts from the very bottom of **Information Theory** and **Algebraic Geometry**, answering the following core questions:

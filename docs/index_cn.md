@@ -7,6 +7,10 @@
 
 ## 🌌 项目愿景
 
+<p align="center">
+  <img src="../../assets/img/architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
 **The Omega Framework** 是一项宏大的理论物理重构工程，旨在建立一个**完全有限、离散且自洽**的物理公理体系。
 
 不同于传统物理学依赖连续流形和微分方程的预设，本框架从**信息论**和**代数几何**的最底层出发，回答以下核心问题：

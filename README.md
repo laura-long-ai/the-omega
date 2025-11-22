@@ -40,6 +40,10 @@ Crucially, this model provides a rigorous physical definition for **Consciousnes
 
 ## 🧩 The Core Mapping (Source Code)
 
+<p align="center">
+  <img src="assets/img/architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
 We map physical phenomenology directly to mathematical structures. This eliminates the "Mystery" and replaces it with "Computation".
 
 | Physical Reality (Output) | Mathematical Structure (Code) |
