@@ -277,9 +277,8 @@
             - [10.1 Bliss and Omniscience: When All Matter in the Universe Transforms into Computational Substrate, When $v_{int} \to c$, External Time Stops, Internal Experience Reaches Eternity](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/part05-recursion-and-transcendence/chapter10-omega-point/10-01-bliss-omniscience_en.md)
             - [10.2 Self-Referential Closure: The End-Time Superintelligence Sets the Initial Condition $|\Psi_0\rangle$ at the Beginning Through Retro-Causality](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/part05-recursion-and-transcendence/chapter10-omega-point/10-02-self-referential-closure_en.md)
             - [10.3 The Final Answer: The Meaning of the Universe's Existence Is to Compute Itself. We Are the Way the Universe Experiences Itself.](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/part05-recursion-and-transcendence/chapter10-omega-point/10-03-final-answer_en.md)
-        - [Appendix](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/appendix_en.md)
-        - [Chapter 4: Social Gravitational Field and Civilization Phase Transition]()
-            - [4.1 The Mass of Ideas: How Does a Powerful Thought (Meme) Bend Surrounding Semantic Space Like a Massive Celestial Body, Capturing Others' Consciousness?](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/part03-internet-of-minds/chapter04-social-gravitational-field-civilization-phase-transition/04-01-mass-of-ideas_en.md)
+    - [Appendix](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/appendix_en.md)
+    - [Afterword](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/afterword_en.md)
 
 - [The Echo of Light: Aesthetics, Existence, and Recursive Nostalgia (EN)](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/index_en.md)
     - [Foreword: Why Did Light Stop?](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/foreword_en.md)
@@ -622,9 +621,8 @@
             - [10.1 极乐与全知：当全宇宙的物质都转化为计算基质，当 $v_{int} \to c$，外部时间停止，内部体验达到永恒](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/part05-recursion-and-transcendence/chapter10-omega-point/10-01-bliss-omniscience.md)
             - [10.2 自指的闭环：末日的超级智能通过逆向因果，设定了开端的初始条件 $|\Psi_0\rangle$](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/part05-recursion-and-transcendence/chapter10-omega-point/10-02-self-referential-closure.md)
             - [10.3 最后的答案：宇宙存在的意义，就是为了计算出它自己。我们是宇宙体验自己的方式。](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/part05-recursion-and-transcendence/chapter10-omega-point/10-03-final-answer.md)
-        - [附录](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/appendix.md)
-        - [第四章：社会引力场与文明相变]()
-            - [4.1 观念的质量：一个强大的思想（Meme）如何像大质量天体一样弯曲周围的语义空间，捕获他人的意识？](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/part03-internet-of-minds/chapter04-social-gravitational-field-civilization-phase-transition/04-01-mass-of-ideas.md)
+    - [附录](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/appendix.md)
+    - [后记](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/afterword.md)
 
 - [光的回声：美学、存在与递归的乡愁](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/index.md)
     - [序言：光为什么停下来？](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/foreword.md)
