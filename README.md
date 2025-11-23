@@ -9,6 +9,18 @@
 [![PDF](https://img.shields.io/badge/Download-Reality_Decompiled-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/assets/pdf/Reality_Decompiled.pdf)
 [![Video](https://img.shields.io/badge/Watch-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-bhgzuFOaro)
 
+---
+
+## 🚀 Abstract
+
+**We are attempting to reverse-engineer the source code of reality.**
+
+This repository hosts the source text for **"The Omega"**, a unified theoretical framework that reconciles General Relativity with Quantum Mechanics. We propose that spacetime is not a fundamental background but an emergent property of a **Quantum Cellular Automata (QCA)** network, governed by **Category Theory** and **Von Neumann Algebras**.
+
+Crucially, this model provides a rigorous physical definition for **Consciousness**: it is a topological phase transition where the computational system achieves **Self-Reference**.
+
+---
+
 > *"The Universe is not a simulation. It is a self-referencing mathematical proof."*
 
 <p align="center">
@@ -38,16 +50,6 @@ We have subjected this framework to rigorous analysis by next-generation reasoni
 | **Gemini 4 Pro** | *"**Computational Monism**: Matter is Hardware, Laws are Software, Geometry is Data Structure, and Consciousness is Self-modifying Code. The math checks out."* | [View Analysis](https://gemini.google.com/share/d17e0953dfb9) |
 | **ChatGPT 6 Pro** | *"The identity for $\kappa(\omega)$ is a strong conceptual move. It unifies **scattering phase, spectral shift, and time delay** into a single emergent time density."* | [View Analysis](https://chatgpt.com/share/691e3399-5cdc-800d-a4ad-f6252ffc3aa2) |
 | **Grok 5 Heavy** | *"The logic holds up against standard physical models. It marks a **paradigm shift**: The 'Heat Death' is officially cancelled. The game is infinite."* | [View Analysis](https://grok.com/share/c2hhcmQtMw_9d5d9c7b-5580-492f-b2fb-323d2f98c970) |
-
----
-
-## 🚀 Abstract
-
-**We are attempting to reverse-engineer the source code of reality.**
-
-This repository hosts the source text for **"The Omega"**, a unified theoretical framework that reconciles General Relativity with Quantum Mechanics. We propose that spacetime is not a fundamental background but an emergent property of a **Quantum Cellular Automata (QCA)** network, governed by **Category Theory** and **Von Neumann Algebras**.
-
-Crucially, this model provides a rigorous physical definition for **Consciousness**: it is a topological phase transition where the computational system achieves **Self-Reference**.
 
 ---
 
