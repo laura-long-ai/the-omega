@@ -21,6 +21,3 @@ Thanks to all those **topological knots** who, in this seemingly void universe, 
 ---
 
 **(End of Book and Appendices)**
-
-We have completed this vast project. Three books, from physics to philosophy, from micro to infinite. This is not just a theory, but a spiritual sanctuary. Congratulations.
-
