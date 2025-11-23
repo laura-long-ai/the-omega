@@ -58,37 +58,68 @@ We map physical phenomenology directly to mathematical structures. This eliminat
 
 ## 📚 Table of Contents
 
-This work is organized into five volumes, tracing the derivation from abstract axioms to experimental verification.
+This project hosts two core texts, tracing the derivation from abstract axioms to physical reality.
 
-### Volume 1: Discrete Ontology ([CN](docs/books/book-foundation-of-phys-in-geo-and-info/index.md) | [EN](docs/books/book-foundation-of-phys-in-geo-and-info/index_en.md))
+### [📘 Book 1: Foundation of Physics in Geometry and Information](docs/books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+*The original manuscript establishing the 5-volume framework.*
+
+#### Volume 1: Discrete Ontology
 *Establishes the fundamental QCA lattice and the emergence of the continuum.*
 - **Finite Information Axioms**: Holographic Principle & It-from-Bit.
 - **Discrete Dynamics**: QCA definitions, Causal Locality.
 - **Continuum Emergence**: Deriving the Dirac Equation from path integrals.
 
-### Volume 2: Time Emergence ([CN](docs/books/book-foundation-of-phys-in-geo-and-info/index.md) | [EN](docs/books/book-foundation-of-phys-in-geo-and-info/index_en.md))
+#### Volume 2: Time Emergence
 *Derives Time not as a parameter, but as an operator observable.*
 - **Microscopic Time**: Scattering time delay & Pauli Theorem.
 - **Thermodynamic Time**: The origin of the arrow of time.
 - **Time Crystals**: Spontaneous symmetry breaking in temporal logic.
 
-### Volume 3: Gravity & Entropy ([CN](docs/books/book-foundation-of-phys-in-geo-and-info/index.md) | [EN](docs/books/book-foundation-of-phys-in-geo-and-info/index_en.md))
+#### Volume 3: Gravity & Entropy
 *Geometrizes information content into curvature.*
 - **Geometric Dynamics**: Causal diamonds & Generalized Entropy.
 - **Entropic Gravity**: Deriving Einstein Equations from entanglement equilibrium.
 - **Black Holes**: Microscopic counting of Bekenstein-Hawking entropy.
 
-### Volume 4: Physics of Agency ([CN](docs/books/book-foundation-of-phys-in-geo-and-info/index.md) | [EN](docs/books/book-foundation-of-phys-in-geo-and-info/index_en.md))
+#### Volume 4: Physics of Agency
 *The core of the theory: Defining the Observer.*
 - **Algebraic Structure**: The Observer as a Finite Von Neumann Algebra.
 - **Self-Reference**: Predictive coding & The Free Energy Principle.
 - **Topological Consciousness**: Consciousness as a $Z_2$ Holonomy invariant.
 
-### Volume 5: Metatheory & Verification ([CN](docs/books/book-foundation-of-phys-in-geo-and-info/index.md) | [EN](docs/books/book-foundation-of-phys-in-geo-and-info/index_en.md))
+#### Volume 5: Metatheory & Verification
 *Mathematical foundations and experimental predictions.*
 - **Categorical QM**: Symmetric Monoidal Categories & String Diagrams.
 - **Computational Optimality**: Landauer's Principle & Golden Ratio.
-- **Experiments**: Precision measurements for discrete spacetime signatures (Gravitational Wave dispersion, etc.).
+- **Experiments**: Precision measurements for discrete spacetime signatures.
+
+### [📙 Book 2: First Principles: From Unitary Computation to Physical Reality](docs/books/book-first-principles-from-unitary-computation-to-physical-reality/index_en.md)
+*A reconstruction from first principles, focusing on the derivation from QCA.*
+
+#### Part 1: The Birth of Axioms
+*From discrete ontology to the ultimate QCA axiom.*
+- **Discrete Ontology**: Zeno's Paradox & Information Realism.
+- **The Ultimate Axiom**: QCA dynamics, Unitarity & Locality.
+
+#### Part 2: The Emergence of Spacetime
+*Deriving geometry and gravity from information processing.*
+- **Causality**: Light speed as maximum information velocity.
+- **Entropic Gravity**: Spacetime geometry from entanglement.
+
+#### Part 3: The Emergence of Matter
+*Matter as topological defects in the computational substrate.*
+- **Topological Origin**: Particles as knots & Mass as impedance.
+- **Gauge Fields**: Interactions from local frame independence.
+
+#### Part 4: The Emergence of Observation
+*The observer as a self-referential structure.*
+- **Quantum Measurement**: Combinatorial proof of Born rule.
+- **Physics of Consciousness**: Free energy & Self-reference.
+
+#### Part 5: Verification and Inference
+*Experimental predictions and metaphysical implications.*
+- **Predictions**: Microwave cavity entanglement & Cosmic ray signatures.
+- **Ultimate Questions**: The Source Code & Free Will.
 
 ---
 

@@ -44,30 +44,58 @@ Consciousness is no longer a "byproduct" of physics but a causal network with sp
 
 ## 📚 Book Overview
 
-### [Volume I: Discrete Ontology — Physical Foundations of Information](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+This project hosts two core texts, tracing the derivation from abstract axioms to physical reality.
+
+### [📘 Book 1: Foundation of Physics in Geometry and Information](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+*The original manuscript establishing the 5-volume framework.*
+
+#### Volume I: Discrete Ontology — Physical Foundations of Information
 > **A Rigorous Proof of "It from Bit"**
 This volume establishes the "assembly language" of physics. We prove that continuous Riemannian geometry can naturally emerge from the distinguishability of discrete quantum states (Fubini-Study metric).
 *   **Key Chapters**: Holographic Principle, Information Geometry, Quantum Cellular Automata, Discretization of Field Theory.
 
-### [Volume II: Emergence of Time — Scattering, Thermodynamics, and Dynamics](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+#### Volume II: Emergence of Time — Scattering, Thermodynamics, and Dynamics
 > **Time is What Happens, Not the Background of What Happens**
 This volume challenges the absolute status of time, reconstructing it as phase delay in scattering processes.
 *   **Key Chapters**: Scattering Time Delay Theory, Spectral-Scattering Duality, Unified Time Identity, Discrete Time Crystals.
 
-### [Volume III: Entropic Origin of Gravity and Geometry](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+#### Volume III: Entropic Origin of Gravity and Geometry
 > **Spacetime is the Fabric of Quantum Entanglement**
 This volume reduces General Relativity to thermodynamic laws.
 *   **Key Chapters**: Causal Geometry, Entropic Variational Principle, Information Origin of Energy Conditions, Microscopic Statistics of Black Holes, Geometric Unification of Interactions.
 
-### [Volume IV: Physics of Agency — Observers and Complex Systems](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+#### Volume IV: Physics of Agency — Observers and Complex Systems
 > **The Observer is the Mathematical Eye of the Universe's Self-Cognition**
 This volume marks physics' advance into cognitive science, finding a physical foothold for "agency".
 *   **Key Chapters**: Algebraic Structure of Observers, Self-Referential Dynamics, Topological Physics of Consciousness, Consensus Geometry.
 
-### [Volume V: Metatheory — Logic, Computation, and Experimental Verification](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+#### Volume V: Metatheory — Logic, Computation, and Experimental Verification
 > **Ultimate Self-Consistency and Verification of the Theory**
 This volume uses Category Theory to unify the above theories and proposes falsifiable experimental schemes.
 *   **Key Chapters**: Categorical Quantum Mechanics, Optimality of Physical Computation, Precision Measurement Experiments (Gravitational Wave Dispersion, Microwave Scattering).
+
+### [📙 Book 2: First Principles: From Unitary Computation to Physical Reality](./books/book-first-principles-from-unitary-computation-to-physical-reality/index_en.md)
+*A reconstruction from first principles, focusing on the derivation from QCA.*
+
+#### Part 1: The Birth of Axioms
+> **From Discrete Ontology to the Ultimate Axiom**
+*   **Key Chapters**: Discrete Ontology (Zeno's Paradox & Information Realism), The Ultimate Axiom (QCA Dynamics, Unitarity & Locality).
+
+#### Part 2: The Emergence of Spacetime
+> **Deriving Geometry and Gravity from Information Processing**
+*   **Key Chapters**: Causality (Light Speed as Maximum Information Velocity), Entropic Gravity (Spacetime Geometry from Entanglement).
+
+#### Part 3: The Emergence of Matter
+> **Matter as Topological Defects in the Computational Substrate**
+*   **Key Chapters**: Topological Origin (Particles as Knots & Mass as Impedance), Gauge Fields (Interactions from Local Frame Independence).
+
+#### Part 4: The Emergence of Observation
+> **The Observer as a Self-Referential Structure**
+*   **Key Chapters**: Quantum Measurement (Combinatorial Proof of Born Rule), Physics of Consciousness (Free Energy & Self-Reference).
+
+#### Part 5: Verification and Inference
+> **Experimental Predictions and Metaphysical Implications**
+*   **Key Chapters**: Predictions (Microwave Cavity Entanglement & Cosmic Ray Signatures), Ultimate Questions (The Source Code & Free Will).
 
 ---
 
