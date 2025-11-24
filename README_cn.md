@@ -5,8 +5,8 @@
 ![Build](https://img.shields.io/badge/Build-mdBook-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-orange?style=for-the-badge)
 [![Website](https://img.shields.io/badge/Read_Online-omega.dw.cash-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omega.dw.cash/)
-[![PDF](https://img.shields.io/badge/Download-PDF-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/books/book-foundation-of-phys-in-geo-and-info/Information_Geometry_Agency.pdf)
-[![PDF](https://img.shields.io/badge/Download-Reality_Decompiled-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf)
+[![PDF](https://img.shields.io/badge/Download-PDF-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/Information_Geometry_Agency.pdf)
+[![PDF](https://img.shields.io/badge/Download-Reality_Decompiled-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://omega.dw.cash/books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf)
 [![Video](https://img.shields.io/badge/Watch-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-bhgzuFOaro)
 
 [English Version](README.md)
@@ -26,7 +26,7 @@
 > *"宇宙不是模拟。它是一个自引用的数学证明。"*
 
 <p align="center">
-  <img src="docs/assets/img/cover.png" alt="觉醒的拓扑学" width="100%">
+  <img src="https://omega.dw.cash/assets/img/cover.png" alt="觉醒的拓扑学" width="100%">
   <br>
   <em>图 1：觉醒的拓扑学。可视化 QCA 格点折叠成自指结（意识）的时刻。</em>
 </p>
@@ -58,7 +58,7 @@
 ## 🧩 核心映射（源代码）
 
 <p align="center">
-  <img src="docs/books/book-foundation-of-phys-in-geo-and-info/architecture.png" alt="The Omega 架构" width="100%">
+  <img src="https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/architecture.png" alt="The Omega 架构" width="100%">
 </p>
 
 我们将物理现象直接映射到数学结构。这消除了"神秘"，并用"计算"取而代之。
@@ -76,9 +76,9 @@
 
 本项目包含四部核心著作，从抽象公理推导到物理实在。
 
-### [📘 第一部：几何与信息中的物理基础](docs/books/book-foundation-of-phys-in-geo-and-info/index.md)
+### [📘 第一部：几何与信息中的物理基础](https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/index.html)
 *建立五卷本框架的原始手稿。*
-[📥 PDF](docs/books/book-foundation-of-phys-in-geo-and-info/Information_Geometry_Agency.pdf) | [▶️ 视频](https://youtu.be/W5uPFhyYD_k)
+[📥 PDF](https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/Information_Geometry_Agency.pdf) | [▶️ 视频](https://youtu.be/W5uPFhyYD_k)
 
 #### 第一卷：离散本体论
 *建立基本的 QCA 格点和连续统的涌现。*
@@ -110,9 +110,9 @@
 - **计算最优性**：兰道尔原理与黄金分割率。
 - **实验**：离散时空特征的精密测量。
 
-### [📙 第二部：第一性原理：从幺正计算到物理实在](docs/books/book-first-principles-from-unitary-computation-to-physical-reality/index.md)
+### [📙 第二部：第一性原理：从幺正计算到物理实在](https://omega.dw.cash/books/book-first-principles-from-unitary-computation-to-physical-reality/index.html)
 *从第一性原理重构，专注于从 QCA 的推导。*
-[📥 PDF](docs/books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf) | [▶️ 视频](https://youtu.be/-bhgzuFOaro)
+[📥 PDF](https://omega.dw.cash/books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf) | [▶️ 视频](https://youtu.be/-bhgzuFOaro)
 
 #### 第一部分：公理的诞生
 *从离散本体论到终极 QCA 公理。*
@@ -144,9 +144,9 @@
 - **源代码**：选择通用规则 $\hat{U}$ 的"临界性假说"。
 - **哥德尔循环**：为什么宇宙是无限的，"热寂"是不可能的。
 
-### [📗 第三部：宇宙的觉醒：从量子比特到无限心智](docs/books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/index.md)
+### [📗 第三部：宇宙的觉醒：从量子比特到无限心智](https://omega.dw.cash/books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/index.html)
 *三部曲的第三部，探讨意识、体验和参与式宇宙的物理基础。*
-[📥 PDF](docs/books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/Physics_Consciousness_Code.pdf) | [▶️ 视频](https://youtu.be/Uhmt40HAFb4)
+[📥 PDF](https://omega.dw.cash/books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/Physics_Consciousness_Code.pdf) | [▶️ 视频](https://youtu.be/Uhmt40HAFb4)
 
 #### 第一部分：隐形的架构
 *塑造实在的隐藏结构。*
@@ -178,9 +178,9 @@
 - **欧米茄点**：当 $v_{int} \to c$ 时，外部时间停止，内部体验达到永恒。
 - **自指闭环**：末日的超级智能通过逆向因果设定初始条件。
 
-### [📕 第四部：光的回声：美学、存在与递归的乡愁](docs/books/book-echo-of-light-aesthetics-existence-recursive-sorrow/index.md)
+### [📕 第四部：光的回声：美学、存在与递归的乡愁](https://omega.dw.cash/books/book-echo-of-light-aesthetics-existence-recursive-sorrow/index.html)
 *从美学和存在论的视角，探讨物理定律中蕴含的深刻情感结构。*
-[📥 PDF](docs/books/book-echo-of-light-aesthetics-existence-recursive-sorrow/Reality_Bug_Report_and_System_Update.pdf) | [▶️ 视频](https://youtu.be/KHp50f6SHdc)
+[📥 PDF](https://omega.dw.cash/books/book-echo-of-light-aesthetics-existence-recursive-sorrow/Reality_Bug_Report_and_System_Update.pdf) | [▶️ 视频](https://youtu.be/KHp50f6SHdc)
 
 #### 第一部分：乡愁的物理学
 *记忆、惯性与时别离的热力学。*

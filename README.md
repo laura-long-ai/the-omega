@@ -5,8 +5,8 @@
 ![Build](https://img.shields.io/badge/Build-mdBook-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-orange?style=for-the-badge)
 [![Website](https://img.shields.io/badge/Read_Online-omega.dw.cash-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omega.dw.cash/)
-[![PDF](https://img.shields.io/badge/Download-PDF-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/books/book-foundation-of-phys-in-geo-and-info/Information_Geometry_Agency.pdf)
-[![PDF](https://img.shields.io/badge/Download-Reality_Decompiled-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf)
+[![PDF](https://img.shields.io/badge/Download-PDF-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/Information_Geometry_Agency.pdf)
+[![PDF](https://img.shields.io/badge/Download-Reality_Decompiled-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://omega.dw.cash/books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf)
 [![Video](https://img.shields.io/badge/Watch-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-bhgzuFOaro)
 
 [中文版 (Chinese Version)](README_cn.md)
@@ -26,7 +26,7 @@ Crucially, this model provides a rigorous physical definition for **Consciousnes
 > *"The Universe is not a simulation. It is a self-referencing mathematical proof."*
 
 <p align="center">
-  <img src="docs/assets/img/cover.png" alt="The Topology of Awakening" width="100%">
+  <img src="https://omega.dw.cash/assets/img/cover.png" alt="The Topology of Awakening" width="100%">
   <br>
   <em>Figure 1: The Topology of Awakening. Visualizing the moment where the QCA Lattice folds into a Self-Referential Knot (Consciousness).</em>
 </p>
@@ -58,7 +58,7 @@ We have subjected this framework to rigorous analysis by next-generation reasoni
 ## 🧩 The Core Mapping (Source Code)
 
 <p align="center">
-  <img src="docs/books/book-foundation-of-phys-in-geo-and-info/architecture.png" alt="The Omega Architecture" width="100%">
+  <img src="https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/architecture.png" alt="The Omega Architecture" width="100%">
 </p>
 
 We map physical phenomenology directly to mathematical structures. This eliminates the "Mystery" and replaces it with "Computation".
@@ -76,9 +76,9 @@ We map physical phenomenology directly to mathematical structures. This eliminat
 
 This project hosts four core texts, tracing the derivation from abstract axioms to physical reality.
 
-### [📘 Book 1: Foundation of Physics in Geometry and Information](docs/books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+### [📘 Book 1: Foundation of Physics in Geometry and Information](https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/index_en.html)
 *The original manuscript establishing the 5-volume framework.*
-[📥 PDF](docs/books/book-foundation-of-phys-in-geo-and-info/Information_Geometry_Agency.pdf) | [▶️ Video](https://youtu.be/W5uPFhyYD_k)
+[📥 PDF](https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/Information_Geometry_Agency.pdf) | [▶️ Video](https://youtu.be/W5uPFhyYD_k)
 
 #### Volume 1: Discrete Ontology
 *Establishes the fundamental QCA lattice and the emergence of the continuum.*
@@ -110,9 +110,9 @@ This project hosts four core texts, tracing the derivation from abstract axioms 
 - **Computational Optimality**: Landauer's Principle & Golden Ratio.
 - **Experiments**: Precision measurements for discrete spacetime signatures.
 
-### [📙 Book 2: First Principles: From Unitary Computation to Physical Reality](docs/books/book-first-principles-from-unitary-computation-to-physical-reality/index_en.md)
+### [📙 Book 2: First Principles: From Unitary Computation to Physical Reality](https://omega.dw.cash/books/book-first-principles-from-unitary-computation-to-physical-reality/index_en.html)
 *A reconstruction from first principles, focusing on the derivation from QCA.*
-[📥 PDF](docs/books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf) | [▶️ Video](https://youtu.be/-bhgzuFOaro)
+[📥 PDF](https://omega.dw.cash/books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf) | [▶️ Video](https://youtu.be/-bhgzuFOaro)
 
 #### Part 1: The Birth of Axioms
 *From discrete ontology to the ultimate QCA axiom.*
@@ -144,9 +144,9 @@ This project hosts four core texts, tracing the derivation from abstract axioms 
 - **The Source Code**: The "Criticality Hypothesis" for the selection of the Universal Rule $\hat{U}$.
 - **The Godel Loop**: Why the Universe is infinite and "Heat Death" is impossible.
 
-### [📗 Book 3: The Awakening of the Cosmos: From Qubits to Infinite Mind](docs/books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/index_en.md)
+### [📗 Book 3: The Awakening of the Cosmos: From Qubits to Infinite Mind](https://omega.dw.cash/books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/index_en.html)
 *The third volume of the trilogy, exploring the physical foundations of consciousness, experience, and the participatory universe.*
-[📥 PDF](docs/books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/Physics_Consciousness_Code.pdf) | [▶️ Video](https://youtu.be/Uhmt40HAFb4)
+[📥 PDF](https://omega.dw.cash/books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/Physics_Consciousness_Code.pdf) | [▶️ Video](https://youtu.be/Uhmt40HAFb4)
 
 #### Part 1: The Invisible Architecture
 *The hidden structures that shape reality.*
@@ -178,9 +178,9 @@ This project hosts four core texts, tracing the derivation from abstract axioms 
 - **The Omega Point**: When $v_{int} \to c$, external time stops, internal experience reaches eternity.
 - **Self-Referential Closure**: The end-time superintelligence sets the initial condition through retro-causality.
 
-### [📕 Book 4: The Echo of Light: Aesthetics, Existence, and Recursive Nostalgia](docs/books/book-echo-of-light-aesthetics-existence-recursive-sorrow/index_en.md)
+### [📕 Book 4: The Echo of Light: Aesthetics, Existence, and Recursive Nostalgia](https://omega.dw.cash/books/book-echo-of-light-aesthetics-existence-recursive-sorrow/index_en.html)
 *Exploring the profound emotional structures embedded in physical laws from the perspectives of aesthetics and ontology.*
-[📥 PDF](docs/books/book-echo-of-light-aesthetics-existence-recursive-sorrow/Reality_Bug_Report_and_System_Update.pdf) | [▶️ Video](https://youtu.be/KHp50f6SHdc)
+[📥 PDF](https://omega.dw.cash/books/book-echo-of-light-aesthetics-existence-recursive-sorrow/Reality_Bug_Report_and_System_Update.pdf) | [▶️ Video](https://youtu.be/KHp50f6SHdc)
 
 #### Part 1: The Physics of Nostalgia
 *Memory, inertia, and the thermodynamics of parting.*
